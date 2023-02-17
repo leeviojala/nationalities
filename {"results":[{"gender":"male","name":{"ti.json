@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Aleksi", "last": "Huhtala" },
+      "location": {
+        "street": { "number": 9193, "name": "Hämeenkatu" },
+        "city": "Kökar",
+        "state": "Pirkanmaa",
+        "country": "Finland",
+        "postcode": 52389,
+        "coordinates": { "latitude": "-46.2248", "longitude": "-52.4804" },
+        "timezone": {
+          "offset": "-4:00",
+          "description": "Atlantic Time (Canada), Caracas, La Paz"
+        }
+      },
+      "email": "aleksi.huhtala@example.com",
+      "login": {
+        "uuid": "024e3687-3bbb-4b7d-8748-33730be83910",
+        "username": "crazylion301",
+        "password": "hunter1",
+        "salt": "pRRRSCYq",
+        "md5": "99adad5c23641c1cb15a60a39f9d164b",
+        "sha1": "70a9f924c294a0f7df6295e027922ec9512acc46",
+        "sha256": "cdf7555d9ff6c8cce5ccf32d49c43478624d554aba1a22bbd0c29d30c27c6725"
+      },
+      "dob": { "date": "1957-03-23T07:37:55.839Z", "age": 65 },
+      "registered": { "date": "2011-04-07T01:55:01.787Z", "age": 11 },
+      "phone": "02-795-260",
+      "cell": "040-059-41-33",
+      "id": { "name": "HETU", "value": "NaNNA689undefined" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": { "seed": "123456", "results": 1, "page": 1, "version": "1.4" }
+}
